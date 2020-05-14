@@ -89,6 +89,10 @@ footer p {
   color: var(--Gray);
   text-align: center;
 }
+.error {
+  color: var(--Light-Red);
+  display: none;
+}
 @media (min-width: 768px) {
   .contenedor {
     width: calc(60% - 1rem);
